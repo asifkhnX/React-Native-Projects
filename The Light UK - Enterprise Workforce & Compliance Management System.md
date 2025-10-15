@@ -1,7 +1,7 @@
 # 🏥 The Light UK — Enterprise Workforce & Compliance Management System
 
 ### 🧑‍💻 Tech Stack
-**React Native CLI · Node.js (Express.js) · PostgreSQL (110 Tables) · Socket.IO · AWS EC2 / RDS / S3**
+**React Native CLI · Node.js (Express.js) (35,000 + lines of code) · PostgreSQL (110+ Tables) · Socket.IO · AWS EC2 / RDS / S3**
 
 ---
 
